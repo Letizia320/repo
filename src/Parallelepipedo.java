@@ -1,4 +1,6 @@
-//versione 1
+//versione 2
+
+
 public class Parallelepipedo extends Rettangolo {
 
 	private float lato3;
@@ -19,6 +21,5 @@ public class Parallelepipedo extends Rettangolo {
 		Parallelepipedo p= new Parallelepipedo(1F,2F,3F);
 		System.out.println(p.volume());
 	}
-	//commenti a occhio
-	
+
 }
